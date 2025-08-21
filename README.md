@@ -1,6 +1,6 @@
 # app-loja
 
-###Funcionalidades do App
+### Funcionalidades do App
 Aqui está um esboço das funcionalidades que seriam necessárias para cada área:
 
 Área de Administração (Sua Visão)
