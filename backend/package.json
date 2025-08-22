@@ -24,12 +24,10 @@
     "web-vitals": "^2.1.4",
     "yup": "^1.7.0"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
+ "scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+},
   "eslintConfig": {
     "extends": [
       "react-app",
