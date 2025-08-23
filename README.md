@@ -39,7 +39,7 @@ Para rodar este projeto localmente, você precisará ter o **Node.js** e o **npm
 
 ## Install
 
-Back-end
+## Back-end
 * Para instalar as dependências do projeto
 ```
 npm install
@@ -59,7 +59,7 @@ npm install express mongodb cors
 npm install --save-dev nodemon
 ```
 
-Comandos do Front-end 
+## Front-end 
 * Para instalar bibliotecas específicas
 ```
 npm install react-router-dom
