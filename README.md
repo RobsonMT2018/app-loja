@@ -1,6 +1,4 @@
-# App aonde pode acessar e gerenciar seus produtos da sua loja
-
-Um app para gerenciar sua loja de seus produtos personalizados e permitir que os clientes naveguem pelos produtos.
+# ​O aplicativo que centraliza a gestão da sua loja, cadastrando seus produtos personalizado.
 
 ## Funcionalidades
 
