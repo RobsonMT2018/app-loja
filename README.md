@@ -1,4 +1,4 @@
-# Buscador de Endereços
+# App aonde pode acessar e gerenciar seus produtos da sua loja
 
 Um app para gerenciar sua loja de seus produtos personalizados e permitir que os clientes naveguem pelos produtos.
 
