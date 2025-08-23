@@ -53,10 +53,9 @@ npm install jsonwebtoken
 ```
 npm run dev
 ```
-* Conectar ao seu banco de dados MongoDB.
+* Conectar ao seu banco de dados FireBase.
 ```
-npm install express mongodb cors
-npm install --save-dev nodemon
+npm install firebase
 ```
 
 ## Front-end 
