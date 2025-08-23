@@ -1,24 +1,28 @@
 # Buscador de Endereços
 
-Este é um projeto simples de uma aplicação web que permite a busca de endereços completos e suas coordenadas geográficas a partir de um número de CEP. A aplicação exibe o resultado em um formulário e também em um mapa interativo, facilitando a visualização da localização.
+Um app para gerenciar sua loja de seus produtos personalizados e permitir que os clientes naveguem pelos produtos.
 
 ## Funcionalidades
 
-* **Busca por CEP:** Insira um CEP válido para preencher automaticamente os campos de endereço (logradouro, bairro, cidade, UF).
-* **Geolocalização:** Usa uma API de geocodificação para encontrar as coordenadas (latitude e longitude) do endereço e exibi-las no mapa.
-* **Mapa Interativo:** O mapa é centralizado na localização do endereço buscado, com um marcador personalizado.
-* **Validação de Entrada:** Verifica se o CEP inserido é válido antes de realizar a busca.
+* **Área de Administração (Sua Visão)**
+  
+    * Login: Tela para inserir seu e-mail e senha.
+    * Dashboard de Produtos: Uma página onde você vê todos os produtos já cadastrados.
+    * Adicionar Produto: Formulário com os campos que você mencionou: nome, valor, descrição e imagem.
+    * Editar/Remover Produto: Opções para atualizar a informação de um produto ou tirá-lo do ar.
+      
+* **Área do Cliente (Visão do Usuário)**
+    * Página Inicial (Vitrine): Uma galeria com todos os seus copos personalizados, exibindo a imagem, o nome e o preço de cada um.
+    * Detalhes do Produto: Ao clicar em um copo, o cliente veria uma página com a descrição completa e o valor.
+    * Navegação: O cliente pode navegar por todos os produtos sem precisar de nenhuma credencial de login.
 
 ## Tecnologias Utilizadas
 
 O projeto foi construído utilizando as seguintes tecnologias:
 
-* **React**
-* **React-Bootstrap**
-* **React-Leaflet**
-* **Leaflet**
-* **API ViaCEP** - Para consulta de endereços.
-* **API Nominatim (OpenStreetMap)** - Para geocodificação de endereços em coordenadas.
+* React: Para a interface do usuário (a parte visual do app).
+* Node.js (ou similar) + Express: Para construir a parte do "servidor" (o backend). Isso é o que vai gerenciar seu login e o banco de dados.
+* Banco de Dados (por exemplo, MongoDB ou PostgreSQL): Para armazenar de forma segura todas as informações dos produtos (nome, valor, descrição, etc.) e seu login e senha.
 
 
 
@@ -37,38 +41,47 @@ Para rodar este projeto localmente, você precisará ter o **Node.js** e o **npm
 
 ## Install
 
-Bootstrap
+Back-end
+* Para instalar as dependências do projeto
 ```
-npm install react-bootstrap bootstrap
-
+npm install
+```
+* Para instalar bibliotecas específicas
+```
+npm install mongoose
+npm install jsonwebtoken
+```
+* Para iniciar o servidor
+```
+npm run dev
 ```
 
+Comandos do Front-end 
+* Para instalar bibliotecas específicas
 ```
-npm install --save leaflet
+npm install react-router-dom
 ```
 
-## Como Rodar o Projeto
+## Resumo Rápido
+O fluxo de trabalho padrão é:
+* **Abra um terminal e vá para a pasta backend.**
+* **Execute npm run dev para iniciar o servidor.**
+* **Abra um segundo terminal e vá para a pasta app-loja.**
+* **Execute npm run dev para iniciar o aplicativo.**
 
-Siga os passos abaixo para ter uma cópia do projeto rodando em sua máquina local para fins de desenvolvimento e teste.
-
-### 1. Clonar o Repositório
-
-```bash
-git clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DO_SEU_REPOSITORIO]
-```
 
 
 ## Imagens
 
-* **Quando insira CEP Invalido**
-  <img width="1847" height="982" alt="image" src="https://github.com/user-attachments/assets/e1b6a021-8073-4bfc-95d0-fe1a3f2be023" />
+* **Login**
+ <img width="1087" height="1088" alt="image" src="https://github.com/user-attachments/assets/3e954bff-6193-48f4-8388-c44fb2d7fd95" />
 
-* **Pagina Inicial do APP**
-  <img width="983" height="685" alt="image" src="https://github.com/user-attachments/assets/77a36007-8f8c-4e09-89cb-e3541048b1d5" />
+* **Dashboard do Adminstrador App-loja**
+ <img width="1495" height="1237" alt="image" src="https://github.com/user-attachments/assets/bab0d407-e639-4b6e-a44f-7169c53195c5" />
 
-* **Apos Localização do CEP**
-  <img width="1469" height="867" alt="image" src="https://github.com/user-attachments/assets/6dfbfdf3-a46a-4415-8c09-7ddf97ab38f7" />
+* **Cadastrar Produtos Novos**
+  <img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
+
 
 
 
