@@ -53,6 +53,11 @@ npm install jsonwebtoken
 ```
 npm run dev
 ```
+* Conectar ao seu banco de dados MongoDB.
+```
+npm install express mongodb cors
+npm install --save-dev nodemon
+```
 
 Comandos do Front-end 
 * Para instalar bibliotecas específicas
