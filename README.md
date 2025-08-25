@@ -92,6 +92,10 @@ O fluxo de trabalho padrão é:
 * **Cadastrar Produtos Novos**
   <img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
 
+* **Editar os Produtos do banco de dados db.json**
+  <img width="1151" height="1299" alt="image" src="https://github.com/user-attachments/assets/74814681-005d-40f4-b540-8725cc5bac72" />
+
+
 
 
 
