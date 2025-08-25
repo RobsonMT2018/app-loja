@@ -57,6 +57,10 @@ npm run dev
 ```
 npm install firebase
 ```
+API Reset json-server.
+```
+npm install -g json-server
+```
 
 ## Front-end 
 * Para instalar bibliotecas específicas
