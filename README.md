@@ -1,4 +1,4 @@
-##Aplicativo que centraliza a gestão da sua loja, cadastrando seus produtos personalizado.
+## Aplicativo que centraliza a gestão da sua loja, cadastrando seus produtos personalizado. ##
 
 ## Funcionalidades
 
