@@ -20,7 +20,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 * React: Para a interface do usuário (a parte visual do app).
 * Node.js (ou similar) + Express: Para construir a parte do "servidor" (o backend). Isso é o que vai gerenciar seu login e o banco de dados.
-* Banco de Dados (por exemplo, MongoDB ou PostgreSQL): Para armazenar de forma segura todas as informações dos produtos (nome, valor, descrição, etc.) e seu login e senha.
+* Banco de Dados (por exemplo, MongoDB ou PostgreSQL,Json Server): Para armazenar de forma segura todas as informações dos produtos (nome, valor, descrição, etc.) e seu login e senha.
 
 
 
