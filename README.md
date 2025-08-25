@@ -93,7 +93,8 @@ O fluxo de trabalho padrão é:
 <img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
 
 * **Editar os Produtos do banco de dados db.json**
-<img width="1255" height="1359" alt="image" src="https://github.com/user-attachments/assets/89d0f648-fb61-4ebd-8ffe-f5f3fb7a17e9" />
+<img width="1283" height="1421" alt="image" src="https://github.com/user-attachments/assets/bd500425-66fb-49ef-b88e-bd281a0d7339" />
+
 
 
 
