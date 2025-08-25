@@ -74,9 +74,9 @@ npm install react-router-dom
 
 ## Resumo Rápido
 O fluxo de trabalho padrão é:
-* **Abra um terminal e vá para a pasta backend.**
+* **Abra um terminal e entra na pasta /backend.**
 * **Execute npm run dev para iniciar o servidor.**
-* **Abra um segundo terminal e vá para a pasta app-loja.**
+* **Abra um segundo terminal e entra na pasta /front-end.**
 * **Execute npm run dev para iniciar o aplicativo.**
 
 
