@@ -84,16 +84,17 @@ O fluxo de trabalho padrão é:
 ## Imagens
 
 * **Login**
- <img width="1087" height="1088" alt="image" src="https://github.com/user-attachments/assets/3e954bff-6193-48f4-8388-c44fb2d7fd95" />
+<img width="1087" height="1088" alt="image" src="https://github.com/user-attachments/assets/3e954bff-6193-48f4-8388-c44fb2d7fd95" />
 
 * **Dashboard do Adminstrador App-loja**
- <img width="1495" height="1237" alt="image" src="https://github.com/user-attachments/assets/bab0d407-e639-4b6e-a44f-7169c53195c5" />
+<img width="1495" height="1237" alt="image" src="https://github.com/user-attachments/assets/bab0d407-e639-4b6e-a44f-7169c53195c5" />
 
 * **Cadastrar Produtos Novos**
-  <img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
+<img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
 
 * **Editar os Produtos do banco de dados db.json**
-  <img width="1151" height="1299" alt="image" src="https://github.com/user-attachments/assets/74814681-005d-40f4-b540-8725cc5bac72" />
+<img width="1255" height="1359" alt="image" src="https://github.com/user-attachments/assets/89d0f648-fb61-4ebd-8ffe-f5f3fb7a17e9" />
+
 
 
 
