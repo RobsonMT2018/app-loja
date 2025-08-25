@@ -39,7 +39,7 @@ Para rodar este projeto localmente, você precisará ter o **Node.js** e o **npm
 
 ## Install
 
-## Back-end
+## Back-end/
 * Para instalar as dependências do projeto
 ```
 npm install
@@ -61,8 +61,12 @@ API Reset json-server.
 ```
 npm install -g json-server
 ```
+Inicie o servidor:
+```
+json-server --watch db.json --port 3001
+```
 
-## Front-end 
+## Front-end/
 * Para instalar bibliotecas específicas
 ```
 npm install react-router-dom
