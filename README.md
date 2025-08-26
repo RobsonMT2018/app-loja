@@ -87,7 +87,7 @@ O fluxo de trabalho padrão é:
 <img width="1087" height="1088" alt="image" src="https://github.com/user-attachments/assets/3e954bff-6193-48f4-8388-c44fb2d7fd95" />
 
 * **Dashboard do Adminstrador App-loja**
-<img width="1495" height="1237" alt="image" src="https://github.com/user-attachments/assets/bab0d407-e639-4b6e-a44f-7169c53195c5" />
+<img width="1291" height="1439" alt="image" src="https://github.com/user-attachments/assets/c4c9d9f9-a483-49bb-b8b2-b30b32a37d63" />
 
 * **Cadastrar Produtos Novos**
 <img width="1291" height="1237" alt="image" src="https://github.com/user-attachments/assets/cd8f304d-f13c-4d36-ac26-45813f25599f" />
